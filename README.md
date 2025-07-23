@@ -29,7 +29,7 @@ The dataset used contains the following features:
 | `ST_Slope` | Slope of the peak ST segment (Up, Flat, Down) |
 | `HeartDisease` | Target variable (1 = Heart disease, 0 = No heart disease) |
 
-## 🔍 Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 
 We conducted thorough EDA to understand:
 
@@ -48,7 +48,7 @@ Steps taken:
 - Scaling numerical features using StandardScaler
 - Handling class imbalance
 - Feature importance analysis using statistical tests and model-based selectors
-## 🤖 Modeling Approach
+##  Modeling Approach
 
 Multiple models were trained and compared:
 
